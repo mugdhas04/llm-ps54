@@ -14,6 +14,3 @@
 
 ## How it works
 Multiselect + text list of ingredients -> prompt "use only these + basic spices" -> Gemini returns JSON -> app shows 3 recipes with ingredients used, steps and cook time.
-
-## Screenshots
-Add 1-2 screenshots here (`screenshots/` folder).
